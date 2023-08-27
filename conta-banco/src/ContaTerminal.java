@@ -23,7 +23,8 @@ public class ContaTerminal {
        System.out.println("Valor para deposito: ");
        conta.setSaldo(entrada.nextDouble());
 
-       conta.imprimir();    
+       conta.imprimir();
+           
 
     }
 }
